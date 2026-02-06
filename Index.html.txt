@@ -1,3 +1,10 @@
-
-
-https://sites.google.com/d/1MJX13daCOKib9CGHk9t-ICGccLY2dtmv/p/1bUUn2xFOcB4P8FyPGzKBZUOGPvVoYKYN/edit
+<!DOCTYPE html>
+<html>
+<head>
+  <title>xxstubby</title>
+  <meta http-equiv="refresh" content="0; URL='https://sites.google.com/view/xxstubby/home'" />
+</head>
+<body>
+  <p>Redirecting to xxstubby…</p>
+</body>
+</html>
